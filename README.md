@@ -1,4 +1,4 @@
-# Sitecore E-Commerce Services for Sitecore 7.5
+# Sitecore E-Commerce Services 7.5 for Sitecore 7.5
 Copyright 2015 Sitecore Corporation A/S
 
 Licensed under the Apache License, Version 2.0 (the "License");
